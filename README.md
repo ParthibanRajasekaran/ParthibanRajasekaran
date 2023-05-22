@@ -19,4 +19,5 @@ Here are the latest blog posts from my Medium account:
 
 📫 You can reach me at: [Email](mailto:rajasekaran.parthiban7@gmail.com), [LinkedIn](https://www.linkedin.com/in/parthiban-rajasekaran)
 
-⚡ Fun fact: I've been awarded by GitLab, BrowserStack, and JetBrains for substantial open-source contributions through the sponsorship of my personal repository.
+⚡ Fun fact: I've been awarded by ![GitLab](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.gitlab.com%2Fblog%2F2015%2F07%2F03%2Four-new-logo%2F&psig=AOvVaw0luaTuI-vaGizr3cxWM32f&ust=1684841911562000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjzmMXriP8CFQAAAAAdAAAAABAE), ![BrowserStack](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fbrowserstack-full-logo&psig=AOvVaw2SGWDRbwqyFrwOP7I5iRZm&ust=1684841941934000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiv88PriP8CFQAAAAAdAAAAABAE), and ![JetBrains](https://www.jetbrains.com/company/brand/img/jetbrains_logo.png) for substantial open-source contributions through the sponsorship of my personal repository.
+
