@@ -12,12 +12,12 @@ As a global ambassador for Cypress and Pynt, I am committed to empowering the QA
 
 📝 Latest Blog Posts:
 Here are the latest blog posts from my Medium account:
-1. [How to integrate Allure reporting with Cypress cucumber framework]([https://medium.com/@rajasekaran.parthiban7/blog-post-1](https://medium.com/@rajasekaran.parthiban7/how-to-integrate-allure-with-cypress-cucumber-framework-88102d89498f))
-2. [Pynting Out the Vulnerabilities: Enhancing REST-Assured Testing for Maximizing API Security]([https://medium.com/@rajasekaran.parthiban7/blog-post-2](https://medium.com/@rajasekaran.parthiban7/pynting-out-the-vulnerabilities-enhancing-rest-assured-testing-for-maximizing-api-security-e23361a85050))
+1. [How to integrate Allure reporting with Cypress cucumber framework]([https://medium.com/@rajasekaran.parthiban7/blog-post-1](https://medium.com/@rajasekaran.parthiban7/how-to-integrate-allure-with-cypress-cucumber-framework-88102d89498f)
+2. [Pynting Out the Vulnerabilities: Enhancing REST-Assured Testing for Maximizing API Security](https://medium.com/@rajasekaran.parthiban7/pynting-out-the-vulnerabilities-enhancing-rest-assured-testing-for-maximizing-api-security-e23361a85050)
 
 🔗 To see more, check out my [Medium account](https://medium.com/@rajasekaran.parthiban7).
 
 📫 You can reach me at: [Email](mailto:rajasekaran.parthiban7@gmail.com), [LinkedIn](https://www.linkedin.com/in/parthiban-rajasekaran)
 
-⚡ Fun fact: I've been awarded by ![GitLab](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.gitlab.com%2Fblog%2F2015%2F07%2F03%2Four-new-logo%2F&psig=AOvVaw0luaTuI-vaGizr3cxWM32f&ust=1684841911562000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjzmMXriP8CFQAAAAAdAAAAABAE), ![BrowserStack](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fbrowserstack-full-logo&psig=AOvVaw2SGWDRbwqyFrwOP7I5iRZm&ust=1684841941934000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiv88PriP8CFQAAAAAdAAAAABAE), and ![JetBrains](https://www.jetbrains.com/company/brand/img/jetbrains_logo.png) for substantial open-source contributions through the sponsorship of my personal repository.
+⚡ Fun fact: I've been awarded by ![GitLab](https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png), ![BrowserStack](https://assets.stickpng.com/images/62c6f3db7a58a4aa1fb770ae.png), and ![JetBrains](https://www.jetbrains.com/company/brand/img/jetbrains_logo.png) for substantial open-source contributions through the sponsorship of my personal repository.
 
