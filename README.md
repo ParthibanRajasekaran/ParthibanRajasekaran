@@ -12,12 +12,15 @@ As a global ambassador for Cypress and Pynt, I am committed to empowering the QA
 
 📝 Latest Blog Posts:
 Here are the latest blog posts from my Medium account:
-1. [How to integrate Allure reporting with Cypress cucumber framework]([https://medium.com/@rajasekaran.parthiban7/blog-post-1](https://medium.com/@rajasekaran.parthiban7/how-to-integrate-allure-with-cypress-cucumber-framework-88102d89498f)
+1. [How to integrate Allure reporting with Cypress cucumber framework](https://medium.com/@rajasekaran.parthiban7/how-to-integrate-allure-with-cypress-cucumber-framework-88102d89498f)
 2. [Pynting Out the Vulnerabilities: Enhancing REST-Assured Testing for Maximizing API Security](https://medium.com/@rajasekaran.parthiban7/pynting-out-the-vulnerabilities-enhancing-rest-assured-testing-for-maximizing-api-security-e23361a85050)
 
 🔗 To see more, check out my [Medium account](https://medium.com/@rajasekaran.parthiban7).
 
 📫 You can reach me at: [Email](mailto:rajasekaran.parthiban7@gmail.com), [LinkedIn](https://www.linkedin.com/in/parthiban-rajasekaran)
 
-⚡ Fun fact: I've been awarded by ![GitLab](https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png), ![BrowserStack](https://assets.stickpng.com/images/62c6f3db7a58a4aa1fb770ae.png), and ![JetBrains](https://www.jetbrains.com/company/brand/img/jetbrains_logo.png) for substantial open-source contributions through the sponsorship of my personal repository.
-
+⚡ Fun fact: I've been awarded by 
+<img src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="GitLab" width="30" height="30">, 
+<img src="https://assets.stickpng.com/images/62c6f3db7a58a4aa1fb770ae.png" alt="BrowserStack" width="30" height="30">, and 
+<img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" alt="JetBrains" width="30" height="30"> 
+for substantial open-source contributions through the sponsorship of my personal repository.
