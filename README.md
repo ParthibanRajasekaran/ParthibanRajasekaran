@@ -20,7 +20,7 @@ Here are the latest blog posts from my Medium account:
 📫 You can reach me at: [Email](mailto:rajasekaran.parthiban7@gmail.com), [LinkedIn](https://www.linkedin.com/in/parthiban-rajasekaran)
 
 ⚡ Fun fact: I've been awarded by 
-<img src="https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png" alt="GitLab" width="50" height="50">, 
-<img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" alt="BrowserStack" width="50" height="150">, and 
+<img src="https://1000logos.net/wp-content/uploads/2022/02/Gitlab-Logo.jpg" alt="GitLab" width="75" height="50">, 
+<img src="https://getlogovector.com/wp-content/uploads/2020/10/browserstack-logo-vector.png" alt="BrowserStack" width="100" height="50">, and 
 <img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" alt="JetBrains" width="50" height="50"> 
 for substantial open-source contributions through the sponsorship of my personal repository.
