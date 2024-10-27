@@ -4,7 +4,7 @@ I am a seasoned Quality Assurance Advocate leading the way in Quality Engineerin
 
 As a global ambassador for Cypress and Pynt, I am committed to empowering the QA community by sharing my knowledge and advocating for industry-leading best practices. With a focus on test management, automation, strategy, and execution, I aim to create an environment that prioritizes collaboration and stakeholder engagement.
 
-🔭 Currently working as a freelance Test Automation Consultant, I am focused on designing and implementing custom test automation frameworks, integrating API testing with UI automation, and mentoring client teams on agile methodologies.
+🔭 Currently I am focused on designing and implementing custom test automation frameworks, integrating API testing with UI automation, and mentoring client teams on agile methodologies.
 
 🌱 I am proficient in programming/scripting languages such as Java, Groovy, JavaScript, C#, VBScript, SQL, TypeScript, and Scala. I have hands-on experience with Infrastructure tools like Docker, Kubernetes, Rancher, and CI/CD platforms such as GitLab-CI, GitHub Actions, Jenkins, and Nexus.
 
