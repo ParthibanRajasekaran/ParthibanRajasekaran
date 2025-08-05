@@ -13,8 +13,8 @@ I architect resilient engineering platforms, scalable automation frameworks, and
 
 ## 🏆 Key Impact & Recognition
 
-- Cypress.io & Pynt.io **Global Ambassador**, featured in Cypress's Ambassador Spotlight for community leadership and QA advocacy :contentReference[oaicite:1]{index=1}  
-- Sponsored open-source contributions promoted by **GitLab**, **BrowserStack**, and **JetBrains**  
+- Cypress.io & Pynt.io **Global Ambassador**, featured in Cypress's Ambassador Spotlight for community leadership and QA advocacy
+- Sponsored open-source contributions promoted by **GitLab** and **BrowserStack** 
 - Delivered **70% faster release cadence**, **80%+ uplift in test resilience**, and established data-driven engineering governance in enterprise platforms
 
 ---
