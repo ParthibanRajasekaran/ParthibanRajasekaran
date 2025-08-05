@@ -1,26 +1,56 @@
-# Hi, I'm Parthiban Rajasekaran 👋
+# 👋 Hello, I’m Parthiban Rajasekaran
 
-I am a seasoned Quality Assurance Advocate leading the way in Quality Engineering and Test Automation. I have a rich history of working with renowned organizations, driving innovation, efficiency, and accuracy in the QA domain. I'm also an ISTQB-certified expert in Scrum and Agile methodologies. 
+**Engineering Leader | Automation Strategist | Platform Delivery Architect (13+ years)**  
+Specialised in FinTech, enterprise consulting, and AI-driven systems across global, regulated environments.
 
-As a global ambassador for Cypress and Pynt, I am committed to empowering the QA community by sharing my knowledge and advocating for industry-leading best practices. With a focus on test management, automation, strategy, and execution, I aim to create an environment that prioritizes collaboration and stakeholder engagement.
+---
 
-🔭 Currently I am focused on designing and implementing custom test automation frameworks, integrating API testing with UI automation, and mentoring client teams on agile methodologies.
+## 🚀 Leadership Overview
 
-🌱 I am proficient in programming/scripting languages such as Java, Groovy, JavaScript, C#, VBScript, SQL, TypeScript, and Scala. I have hands-on experience with Infrastructure tools like Docker, Kubernetes, Rancher, and CI/CD platforms such as GitLab-CI, GitHub Actions, Jenkins, and Nexus.
+I architect resilient engineering platforms, scalable automation frameworks, and modern CI/CD pipelines. My work bridges technical delivery and strategic business goals ensuring velocity, stability, and quality at scale.
 
-💬 Ask me about Selenium, Cypress, Playwright, Postman/Newman, REST Assured, Insomnia, and anything QA!
+---
 
-📝 Latest Blog Posts:
-Here are the latest blog posts from my Medium account:
-1. [How to integrate Allure reporting with Cypress cucumber framework](https://medium.com/@rajasekaran.parthiban7/how-to-integrate-allure-with-cypress-cucumber-framework-88102d89498f)
-2. [Pynting Out the Vulnerabilities: Enhancing REST-Assured Testing for Maximizing API Security](https://medium.com/@rajasekaran.parthiban7/pynting-out-the-vulnerabilities-enhancing-rest-assured-testing-for-maximizing-api-security-e23361a85050)
+## 🏆 Key Impact & Recognition
 
-🔗 To see more, check out my [Medium account](https://medium.com/@rajasekaran.parthiban7).
+- Cypress.io & Pynt.io **Global Ambassador**, featured in Cypress's Ambassador Spotlight for community leadership and QA advocacy :contentReference[oaicite:1]{index=1}  
+- Sponsored open-source contributions promoted by **GitLab**, **BrowserStack**, and **JetBrains**  
+- Delivered **70% faster release cadence**, **80%+ uplift in test resilience**, and established data-driven engineering governance in enterprise platforms
 
-📫 You can reach me at: [Email](mailto:rajasekaran.parthiban7@gmail.com), [LinkedIn](https://www.linkedin.com/in/parthiban-rajasekaran)
+---
 
-⚡ Fun fact: I've been awarded by 
-<img src="https://1000logos.net/wp-content/uploads/2022/02/Gitlab-Logo.jpg" alt="GitLab" width="75" height="50">, 
-<img src="https://getlogovector.com/wp-content/uploads/2020/10/browserstack-logo-vector.png" alt="BrowserStack" width="100" height="50">, and 
-<img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" alt="JetBrains" width="50" height="50"> 
-for substantial open-source contributions through the sponsorship of my personal repository.
+## 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **MCP Server** | A Model Context Protocol server in TypeScript, supplying real-time weather data to AI assistants like Copilot or Claude. Designed for easy extensibility into broader data services  |
+| **Automation Framework Demos** | Live repos showcasing Cypress, Playwright, API-first testing, and CI/CD orchestration across teams |
+| **NLP-Enabled QA Tools** | Tools built using Hugging Face, SpaCy, and PyTorch to convert engineering feedback into actionable sentiment insights |
+
+---
+
+## 🛠 Tech & Practices
+
+**Languages:** Python, Java, JavaScript/TypeScript, Scala, Groovy, SQL, C#, VBScript  
+**Frameworks:** Cypress, Playwright, REST Assured, Selenium, JEST, PyTest, JUnit, TestNG,  
+**Infrastructure / CI/CD:** Docker, Kubernetes, Rancher, GitHub Actions, GitLab CI, Jenkins  
+**Practices:** Agile/Scrum, Shift‑left testing, API-first strategy, AI-assisted automation, DevOps pipelines
+
+---
+
+## 🎯 Roles I Engage With
+
+I excel in leadership positions focused on **automation strategy**, **platform engineering**, and **delivery governance**—particularly within FinTech, consulting, and AI-focused organisations. I mentor distributed engineering teams to scale processes, enhance DevEx, and embed measurable quality engineering practices.
+
+---
+
+## 🤝 Connect & Collaborate
+
+- **LinkedIn:** [linkedin.com/in/parthiban-rajasekaran](https://www.linkedin.com/in/parthiban-rajasekaran/)  
+- **[Medium](https://medium.com/@rajasekaran.parthiban7):** Thought leadership on quality engineering, platform delivery, and automation strategy  
+- **Email:** rajasekaran.parthiban7@gmail.com
+
+💡 Interested in driving CI/CD modernization, building scalable QA platforms, or leading data-informed engineering transformation? Let’s connect.
+
+
+*Crafted by a quality-first engineering leader with strategic vision and global delivery experience.*
